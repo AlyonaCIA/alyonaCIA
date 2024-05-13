@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/94/c8/e1/94c8e1dcdc496cf2c33a06ff50b38c07.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alyona Carolina Ivanova-Araujo</h1>
 <h3 align="center">I am a scientist passionate about code and solar physics :)</h3>
 (img align="right" alt="Coding" width="400" src="https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg")
