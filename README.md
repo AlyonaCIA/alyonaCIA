@@ -1,7 +1,7 @@
 [![MasterHead](https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alyona Carolina Ivanova-Araujo</h1>
 <h3 align="center">I am a scientist passionate about code and solar physics :)</h3>
-(img align="right" alt="Coding" width="400" src="https://lh6.googleusercontent.com/proxy/kkkqSSUVEju9StlFczWtfVuJySbhZRtWhBIi4J0A2gIut-XipdXQk_UE1NJ7SuduRACBbe-p5E7x83RUPo-ekASGH-h_R3q4A42TnREF9941L_SOMg")
+<img align="right" alt="Coding" width="400" src="https://lh6.googleusercontent.com/proxy/kkkqSSUVEju9StlFczWtfVuJySbhZRtWhBIi4J0A2gIut-XipdXQk_UE1NJ7SuduRACBbe-p5E7x83RUPo-ekASGH-h_R3q4A42TnREF9941L_SOMg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyonacia&label=Profile%20views&color=0e75b6&style=flat" alt="alyonacia" /> </p>
 
