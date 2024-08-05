@@ -1,7 +1,7 @@
-[![MasterHead](https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/06/solar_orbiter_reaches_first_perihelion/22072869-2-eng-GB/Solar_Orbiter_reaches_first_perihelion_pillars.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alyona Carolina Ivanova-Araujo</h1>
-<h3 align="center">I am a scientist passionate about code and solar physics :)</h3>
-<img align="right" alt="Coding" width="400" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/06/solar_orbiter_reaches_first_perihelion/22072869-2-eng-GB/Solar_Orbiter_reaches_first_perihelion_pillars.jpg">
+<h3 align="center">I am a scientist passionate about coding and solar physics :) || Data Scientist - MLOps" </h3>
+<img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/hd/code-background-d8fo7inldgodw8ty.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyonacia&label=Profile%20views&color=0e75b6&style=flat" alt="alyonacia" /> </p>
 
