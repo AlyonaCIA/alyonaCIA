@@ -1,6 +1,6 @@
 [![MasterHead](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/06/solar_orbiter_reaches_first_perihelion/22072869-2-eng-GB/Solar_Orbiter_reaches_first_perihelion_pillars.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alyona Carolina Ivanova-Araujo</h1>
-<h3 align="center">Scientist | Data Scientist | MLOps Enthusiast</h3>
+<h3 align="center">Scientist | AI & MLOps Engineer | Building Intelligent AgentOps Pipelines | Data Scientist | MSc in AI, Astrophysics & Mathematics</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/hd/code-background-d8fo7inldgodw8ty.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyonacia&label=Profile%20views&color=0e75b6&style=flat" alt="alyonacia" /> </p>
