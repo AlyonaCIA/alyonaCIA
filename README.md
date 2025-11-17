@@ -1,24 +1,22 @@
 [![MasterHead](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/06/solar_orbiter_reaches_first_perihelion/22072869-2-eng-GB/Solar_Orbiter_reaches_first_perihelion_pillars.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Alyona Carolina Ivanova-Araujo</h1>
 <h3 align="center">AI & MLOps Engineer | Building Intelligent AgentOps Pipelines | MSc in AI, Astrophysics & Mathematics</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/hd/code-background-d8fo7inldgodw8ty.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyonacia&label=Profile%20views&color=0e75b6&style=flat" alt="alyonacia" /> </p>
 
-![](https://img.shields.io/github/followers/AlyonaCIA?label=Followers&style=social) ![](https://img.shields.io/github/stars/AlyonaCIA?label=Stars&style=social)
-
-## GitHub Metrics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlyonaCIA&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlyonaCIA&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlyonaCIA&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlyonaCIA&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlyonaCIA&theme=github)
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions%20in%202025-105-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-13-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%20years-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Oslo%2C%20Norway-red?style=for-the-badge" />
+</div>
 
 ## Tech Stack & Expertise
 
 ### AI/ML Engineering & Agent Development
 ![LangChain](https://img.shields.io/badge/LangChain-Expert-green)
+![CrewAI](https://img.shields.io/badge/CrewAI-Agents-yellow)
+![AutoGen](https://img.shields.io/badge/AutoGen-Microsoft-blue)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-Agent_Development-blue)
 ![Azure SDK](https://img.shields.io/badge/Azure_SDK-Agents-0078D4)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-purple)
@@ -30,6 +28,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
@@ -39,6 +38,7 @@
 ![Weaviate](https://img.shields.io/badge/Weaviate-Vector_Search-green)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Embeddings-blue)
 ![FAISS](https://img.shields.io/badge/FAISS-Meta-0668E1?style=flat&logo=meta)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-red)
 
 ## Featured AI/ML Projects
 
@@ -51,6 +51,12 @@
 - **Impact**: 80% reduction in code review time through intelligent automation
 - [Live Demo](link) | [GitHub Repository](https://github.com/Jorgelmh/sentoru-agent)
 
+### MCP (Model Context Protocol) Development
+- Built MCP servers for ML experiment tracking and dataset exploration
+- Created tools for MLOps teams to interact with Databricks via AI agents
+- Documented installation and deployment guides for Windows/macOS
+- Technologies: Python, TypeScript, MCP Protocol, Databricks Integration
+
 ### SOLAR - Real-time Anomaly Detection Platform
 
 - **Architecture**: Multi-modal CNN with FastAPI backend, MCP integration for model serving
@@ -58,6 +64,12 @@
 - **Infrastructure**: Docker-based microservices, GitHub Actions CI/CD, Azure DevOps deployment
 - **Tech Stack**: PyTorch, FastAPI, Docker Compose, Google Cloud Storage
 - [API Repository](https://github.com/AlyonaCIA/SOLAR) | [Web Interface](https://github.com/AlyonaCIA/solar-anomaly-detection-interface)
+
+### Bioinformatics Pipeline for Immunogenicity Analysis
+- Developed comprehensive pipeline for tumor immune evasion analysis
+- Integrated RNA-seq expression data with HLA-peptide binding predictions
+- Implemented expression-based filtering and weighting strategies (TPM)
+- Technologies: Python, Dask, PyTorch, Bioinformatics libraries
 
 ### Production RAG Pipeline with Agent Integration
 
@@ -69,16 +81,18 @@
 ## Core Competencies
 
 ### LLM & Agent Development
-- **Agent Frameworks**: Google ADK, Azure SDK for Agents, AutoGen, LangGraph
+- **Agent Frameworks**: LangChain, CrewAI, AutoGen, Google ADK, Azure SDK for Agents, LangGraph
 - **MCP Servers**: Built custom Model Context Protocol servers for ML experiment tracking
 - **Fine-tuning**: Production experience with Llama 2, Mistral, and domain-specific models
 - **RAG Systems**: Implemented production pipelines with hybrid search and re-ranking
+- **Prompt Engineering**: Advanced techniques for multi-step reasoning and tool use
 
 ### MLOps & CI/CD
-- **Pipeline Automation**: GitHub Actions, Azure DevOps, GitLab CI
+- **Pipeline Automation**: GitHub Actions, Azure DevOps, GitLab CI, Jenkins
 - **Model Deployment**: Vertex AI endpoints, Azure ML, Kubernetes-based serving
 - **Monitoring**: Prometheus, Grafana, custom dashboards for model drift detection
 - **Infrastructure as Code**: Terraform, Helm charts for reproducible deployments
+- **Experiment Tracking**: MLflow, Weights & Biases, Custom MCP integrations
 
 ## Professional Experience
 
@@ -87,6 +101,7 @@
 - Built MCP servers for ML experiment tracking and dataset exploration
 - Deployed agent-based systems for automated model evaluation and monitoring
 - Implemented RAG solutions for internal documentation and knowledge management
+- Managed Databricks clusters and optimized Spark pipelines for cost efficiency
 
 **Data Scientist | Outshifter** (Apr 2022 - Aug 2022)
 - Developed cloud-native ML solutions with GitHub Actions automation
@@ -133,7 +148,7 @@
 ## Open to Opportunities
 
 I'm actively seeking **AI Engineer**, **MLOps Engineer**, or **Agent Developer** positions where I can leverage my expertise in:
-- Building autonomous AI agents with Google ADK, Azure SDK, and MCP
+- Building autonomous AI agents with LangChain, CrewAI, AutoGen, and MCP
 - Implementing production RAG systems and LLM fine-tuning pipelines
 - Designing CI/CD pipelines with GitHub Actions and Azure DevOps
 - Creating scalable ML infrastructure on GCP (Vertex AI) and Azure
